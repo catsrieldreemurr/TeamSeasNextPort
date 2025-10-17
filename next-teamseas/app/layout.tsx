@@ -7,7 +7,7 @@ const montserratFont = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "#GoTeamSeas",
+  title: "#GoTeamSeas NEXT",
   description: "Official #TeamSeas Project Ported to Next.JS. Written in Norwegian for a school project, Not affiliated with actual #TeamSeas.",
 };
 

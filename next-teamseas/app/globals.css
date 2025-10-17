@@ -10,9 +10,10 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-  --color-tsblue: #006098;
-  --color-tslight: #a8dfe2;
-  --color-tsorange: #ef7517;
+  --color-ts-blue: #006098;
+  --color-ts-light: #a8dfe2;
+  --color-ts-orange: #ef7517;
+  --color-ts-lighterblue: #47BCC2;
 }
 
 @media (prefers-color-scheme: dark) {
