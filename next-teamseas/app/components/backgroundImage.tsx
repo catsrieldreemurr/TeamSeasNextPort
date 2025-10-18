@@ -4,7 +4,7 @@ import React, { ReactNode } from "react";
 
 type BackgroundChildren = {
     src:string;
-    alt:string;
+    alt?:string;
 }
 
 export default function BackgroundImage(props:BackgroundChildren){
